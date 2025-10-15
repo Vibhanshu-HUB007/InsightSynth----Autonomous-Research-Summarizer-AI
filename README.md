@@ -71,11 +71,3 @@ curl -X POST "http://localhost:8000/research" \
 ├── requirements.txt     # Dependencies
 └── .env.example        # Environment template
 ```
-
-## Hackathon Scoring Alignment
-
-- **Creativity (25 pts)**: Converts scattered research into cohesive insights
-- **Technical Depth (30 pts)**: Uses reasoning + RAG + summarization pipeline
-- **Functionality (25 pts)**: End-to-end working prototype
-- **Presentation (10 pts)**: Clean UI and structured reports
-- **Impact (10 pts)**: Helps researchers extract insights fast
